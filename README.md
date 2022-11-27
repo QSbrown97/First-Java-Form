@@ -1,2 +1,1 @@
-# First-Java-Form
-This is a basic Java form that accepts user input and returns the input as a message below the form.
+This is the first form that I have created in Java. It is a simple application that outputs a display message for the user based on the input given.
